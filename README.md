@@ -34,9 +34,8 @@ A lightweight command-line utility to download anime opening and ending themes d
 ### How To Use
 
 1. **Get The Link:**
-
  Go to AnimeThemes.moe and pick your desired anime such as Attack on Titan.
- Copy the URL from the address bar it will look something like this.
+ Copy the URL from the address bar it will look something like this
  https://animethemes.moe/anime/shingeki_no_kyojin
  now we successfully got the link.
 
