@@ -5,7 +5,7 @@ import subprocess
 import requests
 
 # ==================== CONFIGURATION ====================
-OUTPUT_FOLDER = r"C:\Users\Phantom\Downloads"
+OUTPUT_FOLDER = os.path.join(os.path.expanduser("~"), "Downloads")
 # =======================================================
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
