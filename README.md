@@ -29,7 +29,7 @@ A lightweight command-line utility to download anime opening and ending themes d
 
    you can download it manually from the official FFmpeg download page, 
    extract the zip and then copy everything inside the bin folder and
-   paste it in the Desktop along with batch.py.
+   paste it in the Desktop along with url.py.
 
 ### How To Use
 
