@@ -62,7 +62,7 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 ## Support Me
 If you find this tool helpful, want to support my future development or 
 need technical assistance, you can support me through Ko-fi.
-[![ko-fi](https://ko-fi.com)](https://ko-fi.com)
+[![Support me on Ko-fi](https://shields.io)](https://ko-fi.com)
 
 ## License
 This project is licensed under the GPL v3 License - see the LICENSE file for details.
