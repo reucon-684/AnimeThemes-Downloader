@@ -60,8 +60,9 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 🚀 Need to download an entire animelist worth of OPs and EDs at once? Skip the manual links and check out the [Batch AnimeThemes Downloader!](https://github.com/reucon-684/Batch-AnimeThemes-Downloader)
 
 ## Support Me
-If you find this tool helpful and want to support my other development or 
-need technical help, feel free to buy me a coffee!
+If you find this tool helpful, want to support my future development or 
+need technical assistance, you can support me through Ko-fi.
+[![Support me on Ko-fi](https://shields.io)](https://ko-fi.com)
 
 ## License
 This project is licensed under the GPL v3 License - see the LICENSE file for details.
