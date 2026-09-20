@@ -54,7 +54,7 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 - **Enhanced Downloading**: Utilizes the Torrent Archive in my Server dedicated specifically for Downloading
   instead of the usual AnimeThemes.moe API.
 
-👉[Get the Pro Edition](https://gumroad.com/) or get the complete [Batch + URL Bundle](https://gumroad.com/) on Gumroad to unlock everything!
+👉[Get the Pro Edition](https://reucon.gumroad.com/) or get the complete [Batch + URL Bundle](https://reucon.gumroad.com/) on Gumroad to unlock everything!
 
 ## Batch AnimeThemes Downloader
 🚀 Need to download an entire animelist worth of OPs and EDs at once? Skip the manual links and check out the [Batch AnimeThemes Downloader!](https://github.com/reucon-684/Batch-AnimeThemes-Downloader)
