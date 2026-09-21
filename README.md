@@ -1,5 +1,5 @@
-# AnimeThemes Downloader
 <img alt="Welcome to VHS" src="https://stuff.charm.sh/vhs/examples/neofetch_3.gif" width="600" />
+# AnimeThemes Downloader
 A lightweight command-line utility to download anime opening and ending themes directly from AnimeThemes.moe using a single anime URL.
 
 ---
