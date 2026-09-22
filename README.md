@@ -57,7 +57,7 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 - **Video Support**: Download themes in MP4 and WebM formats alongside MP3.
 - **Graphical User Interface (GUI)**: Full desktop UI for easy point-and-click operation alongside the command-line utility.
 - **Advanced Filters**: Exclude specific theme types (e.g., skip EDs, NC, or specific video resolutions).
-- **Enhanced Downloading**: Utilizes the Torrent Archive in my Server dedicated specifically for Downloading
+- **Enhanced Downloading**: Utilizes the AnimeThemes Torrent Archive in a custom-built API dedicated specifically for Downloading
   instead of the usual AnimeThemes.moe API.
 
 👉[Get the Pro Edition](https://reucon.gumroad.com/) or get the complete [Batch + URL Bundle](https://reucon.gumroad.com/) on Gumroad to unlock everything!
