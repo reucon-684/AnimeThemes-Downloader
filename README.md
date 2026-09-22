@@ -61,7 +61,7 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 👉[Get the Pro Edition](https://reucon.gumroad.com/) or get the complete [Batch + URL Bundle](https://reucon.gumroad.com/) on Gumroad to unlock everything!
 
 ## Batch AnimeThemes Downloader
-🚀 Need to download an entire animelist worth of OPs and EDs at once? Skip the manual links and check out the ## [Batch AnimeThemes Downloader](https://github.com/reucon-684/Batch-AnimeThemes-Downloader)
+🚀 Need to download an entire animelist worth of OPs and EDs at once? Skip the manual links and check out the [Batch AnimeThemes Downloader](https://github.com/reucon-684/Batch-AnimeThemes-Downloader)
 
 ## License
 This project is licensed under the GPL v3 License - see the LICENSE file for details.
