@@ -2,7 +2,7 @@
 
 A lightweight command-line utility to download anime opening and ending themes directly from AnimeThemes.moe using a single anime URL.
 
-<img alt="Welcome to VHS" src="https://github.com/user-attachments/assets/31e00e96-e114-4160-a794-5c9cf6d19bff" width="600" />
+<img alt="Welcome to AniThemes SC" src="https://github.com/user-attachments/assets/31e00e96-e114-4160-a794-5c9cf6d19bff" width="600" />
 
 ## Features
 
@@ -25,10 +25,14 @@ A lightweight command-line utility to download anime opening and ending themes d
    ```bash
    git clone https://github.com/reucon-684/AnimeThemes-Downloader.git
 
-2. **Install Ffmpeg**
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
 
-   you can download it manually from the official FFmpeg download page, 
-   extract the zip and then copy everything inside the bin folder and
+3. **Install Ffmpeg**
+
+   You can download it manually from the Official FFmpeg Download Page, 
+   Extract the zip and then Copy everything inside the bin folder and
    paste it in the Desktop along with url.py.
 
 ### How To Use
